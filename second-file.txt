@@ -1,3 +1,5 @@
 클론한 저장소에 추가한 파일
 asdfasdf
 git-test-cloned 저장소에서 변경한게 맞습니다!
+
+cloned asdfsadf
